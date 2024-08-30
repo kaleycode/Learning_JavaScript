@@ -1,0 +1,30 @@
+body {
+    background-color: #f1eefc;
+    color: #303030;
+    font-family: 'Segoe UI';
+  }
+p{
+    text-align: center;
+}
+button{
+  text-align: center;
+}
+h2{
+    color: #1b003b;
+    text-align: center;
+}
+.container { 
+    height: 0px;
+    position: relative;
+    border: none;
+    text-align: center;
+  }
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
